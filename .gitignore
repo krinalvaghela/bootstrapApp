@@ -1,3 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 /bower_components
 /.idea
+.idea/bootstrapApp.iml
+.idea/modules.xml
+.idea/workspace.xml
